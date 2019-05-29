@@ -60,7 +60,7 @@ article{
     margin-right: 2%;
     overflow: auto;
     margin-top: 13%;
-    height: 200px;
+    height: 190px;
     padding: 1%;
 
 
@@ -95,15 +95,20 @@ footer{
     clear: both ;
 }
 
-#article{
-    
+
+#QWD{
+    font-weight: bolder;
     margin-left: 5%;
     margin-right: 5%;
-    margin-top: 5%;
-    margin-bottom: 1%;
+    margin-top: 10%;
     padding: 3%;
 }
 
-#QWD{
-    margin-bottom: -5%;
+#QCD{ 
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3%;
+
+
+
 }
